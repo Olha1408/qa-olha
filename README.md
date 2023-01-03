@@ -1,1 +1,1 @@
-# junior-qa-olha-zapotochna
+# qa-olha
